@@ -1,0 +1,47 @@
+.card-container {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.post-card {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 700px;
+}
+
+.comments-card {
+    margin: 20px 0;
+    width: 700px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.comments-header {
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+.card-container {
+    margin: 20px 0;
+}
+
+.card-item {
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 700px;
+    margin: auto;
+    border: 1px solid orange;
+    padding: 10px;
+}
+
+.card-button {
+    margin-bottom: 10px;
+}
